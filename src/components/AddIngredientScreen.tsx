@@ -1,3 +1,4 @@
+//comentario
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, Alert, StyleSheet } from 'react-native';
 import { Picker } from '@react-native-picker/picker';
